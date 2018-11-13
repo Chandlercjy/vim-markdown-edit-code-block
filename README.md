@@ -1,7 +1,5 @@
 # Markdown for Vim -- MarkdownEditBlock
 
----
-
 Extract the `MarkdownEditBlock` command from [gabrielelana/vim-markdown](https://github.com/gabrielelana/vim-markdown)
 
 ## Getting started
