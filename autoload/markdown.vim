@@ -449,5 +449,3 @@ function! markdown#SwitchStatus()
 endfunction
 " }}}
 
-command! -nargs=0 -range MarkdownEditBlock :<line1>,<line2>call markdown#EditBlock()
-
